@@ -1,0 +1,6 @@
+tensorflow==2.0.0
+tensorflow-serving-api==2.0.0
+opencv-python==4.1.1.26
+hdrhistogram
+numpy
+requests

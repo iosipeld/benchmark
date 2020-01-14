@@ -1,0 +1,11 @@
+node {
+  name: "NoOp"
+  op: "NoOp"
+  device: "/job:localhost/replica:0/task:0/device:GPU:0"
+}
+library {
+}
+versions {
+  producer: 119
+  min_consumer: 12
+}
